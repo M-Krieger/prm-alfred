@@ -12,4 +12,6 @@ This worfklow filters your folders in ~/.prm/ and passes the folder name to a te
 
 To stop your current prm project just type prm stop.
 
+![ScreenShot](https://raw.githubusercontent.com/M-Krieger/prm-alfred/master/prm_alfred_workflow.png)
+
 If you have any questions or ideas to improve this workflow let me know:) Also let me know if you have any bugs using it.
